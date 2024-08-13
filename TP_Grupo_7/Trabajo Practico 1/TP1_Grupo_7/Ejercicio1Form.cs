@@ -16,5 +16,10 @@ namespace TP1_Grupo_7
         {
             InitializeComponent();
         }
+
+        private void btnACEPTAR_Click(object sender, EventArgs e)
+        {
+            lbNOMBRES.Items.Add(txtNOMBRE.Text);
+        }
     }
 }

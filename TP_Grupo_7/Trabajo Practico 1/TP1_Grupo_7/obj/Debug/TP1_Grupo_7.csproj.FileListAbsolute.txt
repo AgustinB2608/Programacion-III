@@ -8,3 +8,14 @@ C:\Users\berna\OneDrive - frgp.utn.edu.ar\Programacion\Programacion III\TP_Grupo
 C:\Users\berna\OneDrive - frgp.utn.edu.ar\Programacion\Programacion III\TP_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.CoreCompileInputs.cache
 C:\Users\berna\OneDrive - frgp.utn.edu.ar\Programacion\Programacion III\TP_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.exe
 C:\Users\berna\OneDrive - frgp.utn.edu.ar\Programacion\Programacion III\TP_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.pdb
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.exe.config
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.exe
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.pdb
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.AssemblyReference.cache
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Ejercicio1Form.resources
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.FormularioPrincipal.resources
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Properties.Resources.resources
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.GenerateResource.cache
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.CoreCompileInputs.cache
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.exe
+C:\Users\Aby\Documents\UTN\SEGUNDO AÑO\Segundo cuatrimestre\Programacion III\git tp1\Programacion-III\TP_Grupo_7\Trabajo Practico 1\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.pdb
