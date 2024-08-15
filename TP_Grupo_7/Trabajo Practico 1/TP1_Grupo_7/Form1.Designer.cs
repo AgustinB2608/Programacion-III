@@ -83,7 +83,7 @@
             this.LblIntegrantes.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LblIntegrantes.Location = new System.Drawing.Point(58, 148);
             this.LblIntegrantes.Name = "LblIntegrantes";
-            this.LblIntegrantes.Size = new System.Drawing.Size(84, 17);
+            this.LblIntegrantes.Size = new System.Drawing.Size(86, 20);
             this.LblIntegrantes.TabIndex = 3;
             this.LblIntegrantes.Text = "Integrantes:";
             // 
@@ -103,6 +103,7 @@
             "Joaquín Enrique Rigotti"});
             this.LstIntegrantes.Location = new System.Drawing.Point(121, 181);
             this.LstIntegrantes.Name = "LstIntegrantes";
+            this.LstIntegrantes.SelectionMode = System.Windows.Forms.SelectionMode.None;
             this.LstIntegrantes.Size = new System.Drawing.Size(146, 96);
             this.LstIntegrantes.TabIndex = 10;
             // 

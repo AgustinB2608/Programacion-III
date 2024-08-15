@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\aby\\documents\\utn\\segundo a\u00F1o\\segundo cuatrimestre\\programacion iii\\git tp1\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\ejercicio1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\aby\\documents\\utn\\segundo a\u00F1o\\segundo cuatrimestre\\programacion iii\\git tp1\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\ejercicio2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\aby\\documents\\utn\\segundo a\u00F1o\\segundo cuatrimestre\\programacion iii\\git tp1\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\ejercicio1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio1form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\aby\\documents\\utn\\segundo a\u00F1o\\segundo cuatrimestre\\programacion iii\\git tp1\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio2form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio1Form.cs",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio1Form.cs",
-              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio1Form.cs",
-              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio1Form.cs",
-              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio1Form.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAIAwwBUAAAAwAAAA",
+              "Title": "Ejercicio2Form.cs",
+              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio2Form.cs",
+              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio2Form.cs",
+              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio2Form.cs",
+              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio2Form.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAApwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:54:53.428Z",
+              "WhenOpened": "2024-08-15T23:01:34.794Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio2Form.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio2Form.cs",
+              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio2Form.cs",
+              "ToolTip": "C:\\Users\\Aby\\Downloads\\tp1_Grupo_7\\TP1_Grupo_7\\Ejercicio2Form.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\tp1_Grupo_7\\TP1_Grupo_7\\Ejercicio2Form.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:55:08.174Z"
             },
             {
               "$type": "Document",
@@ -43,23 +54,10 @@
               "Title": "Ejercicio1Form.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio1Form.cs",
               "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio1Form.cs",
-              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio1Form.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio1Form.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Aby\\Downloads\\tp1_Grupo_7\\TP1_Grupo_7\\Ejercicio1Form.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\tp1_Grupo_7\\TP1_Grupo_7\\Ejercicio1Form.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:46:34.447Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Form1.cs",
-              "RelativeDocumentMoniker": "TP1_Grupo_7\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TP1_Grupo_7\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T21:46:30.87Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-08-15T22:55:05.805Z"
             }
           ]
         }
