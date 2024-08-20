@@ -1,0 +1,13 @@
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.exe.config
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.exe
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\bin\Debug\TP1_Grupo_7.pdb
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Ejercicio1Form.resources
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Ejercicio2Form.resources
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Ejercicio3Form.resources
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.FormularioPrincipal.resources
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.Properties.Resources.resources
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.GenerateResource.cache
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.exe
+C:\Users\berna\OneDrive - frgp.utn.edu.ar\Escritorio\TP1_Grupo_7\TP1_Grupo_7\obj\Debug\TP1_Grupo_7.pdb
