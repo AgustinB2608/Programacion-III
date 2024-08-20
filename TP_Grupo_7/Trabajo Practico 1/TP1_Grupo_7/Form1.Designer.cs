@@ -99,8 +99,7 @@
             "Oriana Belén Manrique",
             "Abril Agustina López",
             "Maximiliano Fabeiro",
-            "Juan Manuel Asselborn",
-            "Joaquín Enrique Rigotti"});
+            "Juan Manuel Asselborn"});
             this.LstIntegrantes.Location = new System.Drawing.Point(121, 181);
             this.LstIntegrantes.Name = "LstIntegrantes";
             this.LstIntegrantes.SelectionMode = System.Windows.Forms.SelectionMode.None;

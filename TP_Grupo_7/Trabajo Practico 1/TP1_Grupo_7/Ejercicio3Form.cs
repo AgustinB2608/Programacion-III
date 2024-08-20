@@ -16,5 +16,54 @@ namespace TP1_Grupo_7
         {
             InitializeComponent();
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Inicializa el texto del label
+            lblMostrar.Text = "";
+
+            // Verifica qué radio button está seleccionado en el grupo "Sexo"
+            if (radioButton1.Checked)
+            {
+                lblMostrar.Text += radioButton1.Text;
+            }
+            else if (radioButton2.Checked)
+            {
+                lblMostrar.Text += radioButton2.Text;
+            }
+
+            // Verifica qué radio button está seleccionado en el grupo "Estado Civil"
+            if (radioButton3.Checked)
+            {
+                lblMostrar.Text += "\n" + radioButton3.Text;
+            }
+            else if (radioButton4.Checked)
+            {
+                lblMostrar.Text += "\n" + radioButton4.Text;
+            }
+
+            // Añade los elementos seleccionados del checkedListBox
+            lblMostrar.Text += "\nOficio:";
+            foreach (object item in checkedListBox1.CheckedItems)
+            {
+                lblMostrar.Text += "\n" + item.ToString();
+            }
+        }
+
+
+        private void Ejercicio3Form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

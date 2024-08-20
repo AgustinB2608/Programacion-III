@@ -20,7 +20,7 @@ namespace TP1_Grupo_7
 
         private void btnACEPTAR_Click(object sender, EventArgs e)
         {
-            {
+            
                 // Obtener el texto del TextBox y convertirlo a minúsculas
                 string nombre = txtNOMBRE.Text.Trim().ToLower();
 
@@ -43,7 +43,7 @@ namespace TP1_Grupo_7
                     lbNombres.Items.Add(txtNOMBRE.Text.Trim()); // Agregar el nombre tal como está en el TextBox
                     txtNOMBRE.Clear(); // Limpiar el TextBox después de agregar
                 }
-            }
+            
         }
 
         private void button1_Click(object sender, EventArgs e)

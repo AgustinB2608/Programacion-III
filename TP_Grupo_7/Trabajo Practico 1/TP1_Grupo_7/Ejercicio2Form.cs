@@ -28,30 +28,53 @@ namespace TP1_Grupo_7
           
         }
 
+        private HashSet<string> nombresSet = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+
         private void BtnAgregar_Click(object sender, EventArgs e)
         {
-            if (TxtNombre.Text.Trim() != "")
+            // Combina nombre y apellido en una sola cadena
+            string nombreCompleto = $"{TxtNombre.Text.Trim()} {TxtApellido.Text.Trim()}";
+
+            // Validar que ambos campos no estén vacíos
+            if (string.IsNullOrWhiteSpace(TxtNombre.Text) || string.IsNullOrWhiteSpace(TxtApellido.Text))
             {
-                
+                MessageBox.Show("Debe ingresar nombre y apellido", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return; // Salir del método si los campos están vacíos
+            }
+
+            // Verificar si el nombre completo ya está en el HashSet
+            if (nombresSet.Contains(nombreCompleto))
+            {
+                MessageBox.Show("No se puede agregar nombres repetidos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                MessageBox.Show("El nombre ingresado no es valido, el campo no debe estar vacio");
+                // Agregar el nombre completo a la lista y al HashSet
+                listBox1.Items.Add(nombreCompleto);
+                nombresSet.Add(nombreCompleto);
             }
+
+            // Limpiar los campos de texto
+            TxtNombre.Clear();
+            TxtApellido.Clear();
         }
+
+
 
         private void BtnBorrar_Click(object sender, EventArgs e)
         {
-            if(listBox1.SelectedItem != null)
+            // Verifica si hay un elemento seleccionado en el ListBox
+            if (listBox1.SelectedItem != null)
             {
-                string Aborrar = listBox1.SelectedItem.ToString();
-                listBox1.Items.Remove(Aborrar);
-                
+                // Elimina el elemento seleccionado del ListBox
+                listBox1.Items.Remove(listBox1.SelectedItem);
             }
             else
             {
-                MessageBox.Show("Debe seleccionar un elemento", "Atencion");
+                // Muestra un mensaje de advertencia si no se ha seleccionado ningún elemento
+                MessageBox.Show("Debe seleccionar un elemento para eliminar.", "Atención", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
     }
 }
