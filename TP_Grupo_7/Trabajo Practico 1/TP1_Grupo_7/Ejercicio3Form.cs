@@ -31,32 +31,33 @@ namespace TP1_Grupo_7
         {
             // Inicializa el texto del label
             lblMostrar.Text = "";
+            lblMostrar.Text = "Usted seleccionó los siguientes elementos: ";
 
             // Verifica qué radio button está seleccionado en el grupo "Sexo"
             if (radioButton1.Checked)
             {
-                lblMostrar.Text += radioButton1.Text;
+                lblMostrar.Text += "\n" + "Sexo: " + radioButton1.Text;
             }
             else if (radioButton2.Checked)
             {
-                lblMostrar.Text += radioButton2.Text;
+                lblMostrar.Text += "\n" + "Sexo: "+ radioButton2.Text;
             }
 
             // Verifica qué radio button está seleccionado en el grupo "Estado Civil"
             if (radioButton3.Checked)
             {
-                lblMostrar.Text += "\n" + radioButton3.Text;
+                lblMostrar.Text += "\n" + "Estado civil: " + radioButton3.Text;
             }
             else if (radioButton4.Checked)
             {
-                lblMostrar.Text += "\n" + radioButton4.Text;
+                lblMostrar.Text += "\n" + "Estado civil: " + radioButton4.Text;
             }
 
             // Añade los elementos seleccionados del checkedListBox
             lblMostrar.Text += "\nOficio:";
             foreach (object item in checkedListBox1.CheckedItems)
             {
-                lblMostrar.Text += "\n" + item.ToString();
+                lblMostrar.Text += "\n" + "  -" + item.ToString();
             }
         }
 

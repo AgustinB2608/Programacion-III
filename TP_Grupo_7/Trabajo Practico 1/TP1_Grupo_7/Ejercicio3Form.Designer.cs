@@ -148,7 +148,7 @@
             // 
             this.lblMostrar.AutoSize = true;
             this.lblMostrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMostrar.Location = new System.Drawing.Point(116, 292);
+            this.lblMostrar.Location = new System.Drawing.Point(36, 289);
             this.lblMostrar.Name = "lblMostrar";
             this.lblMostrar.Size = new System.Drawing.Size(9, 20);
             this.lblMostrar.TabIndex = 5;

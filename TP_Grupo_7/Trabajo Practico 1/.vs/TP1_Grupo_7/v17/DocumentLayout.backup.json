@@ -1,12 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\tp1_Grupo_7\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\machi\\onedrive\\escritorio\\tp1_grupo_7\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\machi\\OneDrive\\Escritorio\\maxi\\UTN\\Programacion 3\\TrabajoPractico1\\TrabajoPractico1\\Ejercicio3Form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\tp1_grupo_7\\ejercicio3form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3Form.cs",
+              "DocumentMoniker": "C:\\Users\\machi\\OneDrive\\Escritorio\\maxi\\UTN\\Programacion 3\\TrabajoPractico1\\TrabajoPractico1\\Ejercicio3Form.cs",
+              "RelativeDocumentMoniker": "..\\maxi\\UTN\\Programacion 3\\TrabajoPractico1\\TrabajoPractico1\\Ejercicio3Form.cs",
+              "ToolTip": "C:\\Users\\machi\\OneDrive\\Escritorio\\maxi\\UTN\\Programacion 3\\TrabajoPractico1\\TrabajoPractico1\\Ejercicio3Form.cs",
+              "RelativeToolTip": "..\\maxi\\UTN\\Programacion 3\\TrabajoPractico1\\TrabajoPractico1\\Ejercicio3Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:52:29.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio3Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "ToolTip": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:37:16.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio3Form.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.cs",
+              "ToolTip": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio3Form.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T01:10:17.417Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio3Form.cs",
+              "DocumentMoniker": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.cs",
+              "ToolTip": "C:\\Users\\machi\\OneDrive\\Escritorio\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "RelativeToolTip": "TP1_Grupo_7\\Ejercicio3Form.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:41:52.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
