@@ -6,6 +6,15 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            width: 20%;
+            border-collapse: collapse;
+        }
+        .auto-style2 {
+            width: 15%;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -21,6 +30,31 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtCantidad2" runat="server"></asp:TextBox>
         </div>
+        <p>
+            <asp:Button ID="BtnAceptar" runat="server" Text="Generar Tabla" />
+        </p>
+        <p>
+            &nbsp;</p>
+        <table class="auto-style2">
+            <tr>
+                <td>Producto</td>
+                <td>Cantidad</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+        <table class="auto-style1">
+        </table>
     </form>
 </body>
 </html>
