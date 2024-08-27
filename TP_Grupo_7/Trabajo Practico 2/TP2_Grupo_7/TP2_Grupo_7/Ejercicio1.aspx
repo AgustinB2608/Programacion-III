@@ -6,26 +6,7 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
-    <style type="text/css">
-        .auto-style1 {
-            width: 20%;
-            border-collapse: collapse;
-        }
-        .auto-style2 {
-            width: 15%;
-        }
-        .auto-style3 {
-            height: 23px;
-        }
-        .auto-style4 {
-            height: 23px;
-            width: 108px;
-        }
-        .auto-style5 {
-            width: 108px;
-        }
-    </style>
-</head>
+    </head>
 <body>
     <form id="form1" runat="server">
         <div>
@@ -37,7 +18,7 @@
             <br />
 &nbsp;&nbsp;&nbsp; Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtProducto2" runat="server"></asp:TextBox>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtCantidad2" runat="server"></asp:TextBox>
         </div>
         <p>
