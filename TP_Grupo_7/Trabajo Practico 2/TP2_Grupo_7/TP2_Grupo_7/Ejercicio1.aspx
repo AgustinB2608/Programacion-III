@@ -44,7 +44,7 @@
             <asp:Button ID="BtnAceptar" runat="server" Text="Generar Tabla" OnClick="BtnAceptar_Click" />
         </p>
         <p>
-            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="lblTabla" runat="server"></asp:Label>
         </p>
         
     </form>

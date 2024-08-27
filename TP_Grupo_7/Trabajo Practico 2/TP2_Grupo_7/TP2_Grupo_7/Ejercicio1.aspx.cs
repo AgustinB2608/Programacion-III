@@ -18,7 +18,9 @@ namespace TP2_Grupo_7
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
             string ProductoUno = txtProducto1.Text;
-            string tabla= "<table>";
+            string ProductoDos = txtProducto2.Text;
+            int CantidadDos = int.Parse(txtCantidad2.Text);
+            string tabla = "<table>";
 
             tabla += "<tr style= 'font-weight: bold; color: black;'>";
             tabla += "<td> Producto </td>";
@@ -30,7 +32,12 @@ namespace TP2_Grupo_7
             tabla += "<td>" + " " + "</td>";
             tabla += "</tr>";
 
-            Label1.Text = tabla;
+            tabla += "<tr>";
+            tabla += "<td>" + ProductoDos.ToString() + "<td/>";
+            tabla += "<td>" + CantidadDos + "</td>";
+            tabla += "</tr>";
+
+            lblTabla.Text = tabla;
 
         }
     }
