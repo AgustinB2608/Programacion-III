@@ -17,9 +17,20 @@ namespace TP2_Grupo_7
 
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
-            HtmlTableRow row1 = (HtmlTableRow)tablaproductos.Rows[1];
+            string ProductoUno = txtProducto1.Text;
+            string tabla= "<table>";
 
-            row1.Cells[0].InnerText = txtProducto1.Text;
+            tabla += "<tr style= 'font-weight: bold; color: black;'>";
+            tabla += "<td> Producto </td>";
+            tabla += "<td> Cantidad </td>";
+            tabla += "</tr>";
+
+            tabla += "<tr>";
+            tabla += "<td>" + ProductoUno.ToString() + "<td/>";
+            tabla += "<td>" + " " + "</td>";
+            tabla += "</tr>";
+
+            Label1.Text = tabla;
 
         }
     }

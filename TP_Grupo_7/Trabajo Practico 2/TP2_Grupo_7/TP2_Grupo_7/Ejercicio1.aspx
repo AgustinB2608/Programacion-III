@@ -44,27 +44,9 @@
             <asp:Button ID="BtnAceptar" runat="server" Text="Generar Tabla" OnClick="BtnAceptar_Click" />
         </p>
         <p>
-            &nbsp;</p>
-        <table ID = "tablaproductos" runat="server" class="auto-style2">
-            <tr>
-                <td class="auto-style4">Producto</td>
-                <td class="auto-style3">Cantidad</td>
-            </tr>
-            <tr>
-                <td class="auto-style5">&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="auto-style5">&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td class="auto-style5">&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-        </table>
-        <table class="auto-style1">
-        </table>
+            <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        </p>
+        
     </form>
 </body>
 </html>
