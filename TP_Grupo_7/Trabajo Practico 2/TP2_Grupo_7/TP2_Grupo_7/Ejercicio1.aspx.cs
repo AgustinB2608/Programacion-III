@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
+using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 
 namespace TP2_Grupo_7
@@ -11,6 +12,14 @@ namespace TP2_Grupo_7
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+
+        }
+
+        protected void BtnAceptar_Click(object sender, EventArgs e)
+        {
+            HtmlTableRow row1 = (HtmlTableRow)tablaproductos.Rows[1];
+
+            row1.Cells[0].InnerText = txtProducto1.Text;
 
         }
     }

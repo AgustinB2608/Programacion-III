@@ -14,6 +14,16 @@
         .auto-style2 {
             width: 15%;
         }
+        .auto-style3 {
+            height: 23px;
+        }
+        .auto-style4 {
+            height: 23px;
+            width: 108px;
+        }
+        .auto-style5 {
+            width: 108px;
+        }
     </style>
 </head>
 <body>
@@ -31,25 +41,25 @@
             <asp:TextBox ID="txtCantidad2" runat="server"></asp:TextBox>
         </div>
         <p>
-            <asp:Button ID="BtnAceptar" runat="server" Text="Generar Tabla" />
+            <asp:Button ID="BtnAceptar" runat="server" Text="Generar Tabla" OnClick="BtnAceptar_Click" />
         </p>
         <p>
             &nbsp;</p>
-        <table class="auto-style2">
+        <table ID = "tablaproductos" runat="server" class="auto-style2">
             <tr>
-                <td>Producto</td>
-                <td>Cantidad</td>
+                <td class="auto-style4">Producto</td>
+                <td class="auto-style3">Cantidad</td>
             </tr>
             <tr>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-            </tr>
-            <tr>
-                <td>&nbsp;</td>
+                <td class="auto-style5">&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
+                <td class="auto-style5">&nbsp;</td>
                 <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style5">&nbsp;</td>
                 <td>&nbsp;</td>
             </tr>
         </table>

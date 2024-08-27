@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\",
+  "WorkspaceRootPath": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\users\\aby\\documents\\utn\\segundo a\u00F1o\\segundo cuatrimestre\\programacion iii\\git tp1\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|c:\\utn\\programacion-iii\\tp_grupo_7\\trabajo practico 1\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio3form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\tp1_grupo_7\\ejercicio3form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4AC2BFE-BAF5-4DAB-9547-A2CE682C4BAB}|TP1_Grupo_7\\TP1_Grupo_7.csproj|solutionrelative:tp1_grupo_7\\ejercicio3form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,16 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Form1.cs",
+              "DocumentMoniker": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Form1.cs",
               "RelativeDocumentMoniker": "TP1_Grupo_7\\Form1.cs",
               "ToolTip": "C:\\Users\\Aby\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Aby\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T02:22:19.098Z"
             },
@@ -43,9 +47,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Ejercicio3Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "DocumentMoniker": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
               "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
-              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
+              "ToolTip": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
               "RelativeToolTip": "TP1_Grupo_7\\Ejercicio3Form.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,11 +59,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ejercicio3Form.cs",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "DocumentMoniker": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
               "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.cs",
-              "ToolTip": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "ToolTip": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
               "RelativeToolTip": "TP1_Grupo_7\\Ejercicio3Form.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAmwDQAAAA5AAAA",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T02:00:28.777Z",
               "EditorCaption": ""
@@ -68,10 +72,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ejercicio3Form.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Aby\\Documents\\UTN\\SEGUNDO A\u00D1O\\Segundo cuatrimestre\\Programacion III\\git tp1\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
+              "DocumentMoniker": "C:\\UTN\\Programacion-III\\TP_Grupo_7\\Trabajo Practico 1\\TP1_Grupo_7\\Ejercicio3Form.cs",
               "RelativeDocumentMoniker": "TP1_Grupo_7\\Ejercicio3Form.cs",
               "ToolTip": "C:\\Users\\Aby\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\Aby\\Downloads\\TP1_Grupo_7\\TP1_Grupo_7\\Ejercicio3Form.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-20T01:48:52.782Z"
             }
