@@ -6,21 +6,37 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
+    <style type="text/css">
+        .auto-style1 {
+            margin-left: 55px;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
         <div>
-            Nombre:&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            Nombre:&nbsp;&nbsp;&nbsp;&nbsp;<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
             Apellido:&nbsp;&nbsp;&nbsp; <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
             Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="DropDownList1" runat="server">
-                <asp:ListItem>Gral. Pacheco</asp:ListItem>
-                <asp:ListItem>San Miguel</asp:ListItem>
-                <asp:ListItem>Boedo</asp:ListItem>
+            <asp:DropDownList ID="ddlCiudad" runat="server">
+                <asp:ListItem Value="Zona norte">Gral. Pacheco</asp:ListItem>
+                <asp:ListItem Value="Zona oeste">San Miguel</asp:ListItem>
+                <asp:ListItem Value="Zona sur">Boedo</asp:ListItem>
             </asp:DropDownList>
+            <br />
+            <br />
+            Temas:<br />
+            <asp:CheckBoxList ID="cblTemas" runat="server" CssClass="auto-style1">
+                <asp:ListItem>Ciencias</asp:ListItem>
+                <asp:ListItem>Literatura</asp:ListItem>
+                <asp:ListItem>Historia</asp:ListItem>
+            </asp:CheckBoxList>
+&nbsp;&nbsp;
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="btnResumen" runat="server" Text="Ver resumen" />
         </div>
     </form>
 </body>
