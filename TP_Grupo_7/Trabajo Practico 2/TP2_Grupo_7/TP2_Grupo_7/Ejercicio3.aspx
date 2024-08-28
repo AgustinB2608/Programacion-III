@@ -17,8 +17,6 @@
         <asp:LinkButton ID="LinkButton2" runat="server">Azul</asp:LinkButton>
         <br />
         <br />
-        <asp:LinkButton ID="LinkButton3" runat="server">Verde</asp:LinkButton>
-        <br />
         <br />
         <asp:Label ID="lblCOLOR" runat="server" Text="lblColor"></asp:Label>
     </form>
