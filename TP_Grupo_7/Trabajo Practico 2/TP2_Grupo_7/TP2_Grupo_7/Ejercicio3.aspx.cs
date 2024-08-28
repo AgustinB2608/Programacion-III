@@ -14,14 +14,11 @@ namespace TP2_Grupo_7
 
         }
 
-        protected void LinkButton2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
             lblCOLOR.ForeColor = System.Drawing.Color.Red;
+            lblCOLOR.Text = "Texto Coloreado";
         }
+
     }
 }

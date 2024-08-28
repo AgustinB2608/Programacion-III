@@ -17,8 +17,10 @@
         <asp:LinkButton ID="LinkButton2" runat="server">Azul</asp:LinkButton>
         <br />
         <br />
+        <asp:LinkButton ID="lnkVerde" runat="server">Verde</asp:LinkButton>
         <br />
-        <asp:Label ID="lblCOLOR" runat="server" Text="lblColor"></asp:Label>
+        <br />
+        <asp:Label ID="lblCOLOR" runat="server"></asp:Label>
     </form>
 </body>
 </html>

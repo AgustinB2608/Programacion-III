@@ -42,6 +42,15 @@ namespace TP2_Grupo_7
         protected global::System.Web.UI.WebControls.LinkButton LinkButton2;
 
         /// <summary>
+        /// Control lnkVerde.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.LinkButton lnkVerde;
+
+        /// <summary>
         /// Control lblCOLOR.
         /// </summary>
         /// <remarks>
