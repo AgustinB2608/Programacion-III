@@ -11,13 +11,16 @@
     <form id="form1" runat="server">
         <div>
         </div>
-        <asp:LinkButton ID="LinkButton1" runat="server">Rojo</asp:LinkButton>
+        <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Rojo</asp:LinkButton>
         <br />
         <br />
         <asp:LinkButton ID="LinkButton2" runat="server">Azul</asp:LinkButton>
         <br />
         <br />
         <asp:LinkButton ID="LinkButton3" runat="server">Verde</asp:LinkButton>
+        <br />
+        <br />
+        <asp:Label ID="lblCOLOR" runat="server" Text="lblColor"></asp:Label>
     </form>
 </body>
 </html>
