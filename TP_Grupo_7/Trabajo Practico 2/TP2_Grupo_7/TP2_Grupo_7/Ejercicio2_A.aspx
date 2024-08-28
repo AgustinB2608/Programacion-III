@@ -15,12 +15,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Nombre:&nbsp;&nbsp;&nbsp;&nbsp;<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+            Nombre:&nbsp;&nbsp;&nbsp;<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
-            Apellido:&nbsp;&nbsp;&nbsp; <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+            Apellido:&nbsp;&nbsp;&nbsp;<asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
-            Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="ddlCiudad" runat="server">
+            Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:DropDownList ID="ddlCiudades" runat="server">
                 <asp:ListItem Value="Zona norte">Gral. Pacheco</asp:ListItem>
                 <asp:ListItem Value="Zona oeste">San Miguel</asp:ListItem>
                 <asp:ListItem Value="Zona sur">Boedo</asp:ListItem>
@@ -36,7 +35,7 @@
 &nbsp;&nbsp;
             <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="btnResumen" runat="server" Text="Ver resumen" />
+            <asp:Button ID="btnResumen" runat="server" Text="Ver resumen" OnClick="btnResumen_Click" />
         </div>
     </form>
 </body>
