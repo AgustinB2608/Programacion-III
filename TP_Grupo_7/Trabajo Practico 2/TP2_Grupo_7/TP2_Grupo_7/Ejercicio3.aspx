@@ -14,7 +14,7 @@
         <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Rojo</asp:LinkButton>
         <br />
         <br />
-        <asp:LinkButton ID="LinkButton2" runat="server">Azul</asp:LinkButton>
+        <asp:LinkButton ID="LinkButton2" runat="server" OnClick="LinkButton2_Click">Azul</asp:LinkButton>
         <br />
         <br />
         <asp:LinkButton ID="lnkVerde" runat="server">Verde</asp:LinkButton>

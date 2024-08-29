@@ -20,5 +20,10 @@ namespace TP2_Grupo_7
             lblCOLOR.Text = "Texto Coloreado";
         }
 
+        protected void LinkButton2_Click(object sender, EventArgs e)
+        {
+            lblCOLOR.ForeColor = System.Drawing.Color.Blue;
+            lblCOLOR.Text = "Texto Coloreado";
+        }
     }
 }
