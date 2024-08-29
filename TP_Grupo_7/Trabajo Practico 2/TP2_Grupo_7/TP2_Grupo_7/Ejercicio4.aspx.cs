@@ -13,5 +13,21 @@ namespace TP2_Grupo_7
         {
 
         }
+
+        protected void btnValidar_Click(object sender, EventArgs e)
+        {
+            string UsuarioValido = "claudio";
+            string ClaveValida = "casas";
+
+            if(TextBox1.Text == UsuarioValido && TextBox2.Text == ClaveValida)
+            {
+                ///Redirigir a pagina de usuario valido
+            }
+            else
+            {
+                ///Redirigir a pagina de usuario invalido
+            }
+
+        }
     }
 }

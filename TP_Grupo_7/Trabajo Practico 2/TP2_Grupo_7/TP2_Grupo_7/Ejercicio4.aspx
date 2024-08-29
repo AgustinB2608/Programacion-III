@@ -25,7 +25,7 @@
         <br />
         <br />
         <div class="auto-style1">
-            <asp:Button ID="Button1" runat="server" Text="Validar" />
+            <asp:Button ID="btnValidar" runat="server" Text="Validar" OnClick="btnValidar_Click" />
         </div>
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
