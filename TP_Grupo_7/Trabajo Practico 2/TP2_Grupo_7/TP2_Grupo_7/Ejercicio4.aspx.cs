@@ -19,13 +19,13 @@ namespace TP2_Grupo_7
             string UsuarioValido = "claudio";
             string ClaveValida = "casas";
 
-            if(TextBox1.Text == UsuarioValido && TextBox2.Text == ClaveValida)
+            if(txtUsuario.Text == UsuarioValido && txtClave.Text == ClaveValida)
             {
-                ///Redirigir a pagina de usuario valido
+                Server.Transfer("Ejercicio4b.aspx");
             }
             else
             {
-                ///Redirigir a pagina de usuario invalido
+                Server.Transfer("Ejercicio4c.aspx");
             }
 
         }

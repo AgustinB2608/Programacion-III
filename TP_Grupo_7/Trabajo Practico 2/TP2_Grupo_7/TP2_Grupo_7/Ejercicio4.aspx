@@ -18,10 +18,10 @@
         <br />
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Usuario:&nbsp;&nbsp;
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox>
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Clave:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        <asp:TextBox ID="txtClave" runat="server"></asp:TextBox>
         <br />
         <br />
         <div class="auto-style1">
