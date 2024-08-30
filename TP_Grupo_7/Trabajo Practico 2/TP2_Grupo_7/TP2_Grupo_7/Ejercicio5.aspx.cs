@@ -14,9 +14,16 @@ namespace TP2_Grupo_7
 
         }
 
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void btnCalculo_Click(object sender, EventArgs e)
         {
-            
+            float precioExtras = 0;
+            foreach (ListItem item in cblAccesorios.Items)
+            {
+                if (item.Selected)
+                {
+                    precioExtras += float.Parse(item.Value);
+                }
+            }
         }
     }
 }
