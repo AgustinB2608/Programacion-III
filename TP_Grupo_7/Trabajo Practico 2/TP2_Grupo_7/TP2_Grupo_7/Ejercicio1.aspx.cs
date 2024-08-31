@@ -39,7 +39,7 @@ namespace TP2_Grupo_7
             tabla += "</tr>";
 
             tabla += "<tr style='font-weight: bold; color: black;'>";
-            tabla += "<td>Total</td>";
+            tabla += "<td>TOTAL</td>";
             tabla += $"<td>{Total}</td>";
             tabla += "</tr>";
 
