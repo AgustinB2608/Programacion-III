@@ -5,20 +5,27 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
+    <title>Ejercicio 1</title> 
+
+    <style>
+        body{
+            margin-left:5px; 
+        }
+    </style>
+
     </head>
 <body>
     <form id="form1" runat="server">
         <div>
-        &nbsp;&nbsp;&nbsp;&nbsp; Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;&nbsp;
+            Ingrese nombre del producto:&nbsp;
             <asp:TextBox ID="txtProducto1" runat="server"></asp:TextBox>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;
+            &nbsp;Cantidad:&nbsp;
             <asp:TextBox ID="txtCantidad1" runat="server"></asp:TextBox>
             <br />
             <br />
-&nbsp;&nbsp;&nbsp; Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;&nbsp;
+            Ingrese nombre del producto:&nbsp;
             <asp:TextBox ID="txtProducto2" runat="server"></asp:TextBox>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;
+            &nbsp;Cantidad:&nbsp;
             <asp:TextBox ID="txtCantidad2" runat="server"></asp:TextBox>
         </div>
         <p>

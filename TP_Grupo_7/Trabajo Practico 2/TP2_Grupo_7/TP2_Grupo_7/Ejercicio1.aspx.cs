@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
 
 namespace TP2_Grupo_7
@@ -19,26 +15,38 @@ namespace TP2_Grupo_7
         {
             string ProductoUno = txtProducto1.Text;
             string ProductoDos = txtProducto2.Text;
+
+            int CantidadUno = int.Parse(txtCantidad1.Text);
             int CantidadDos = int.Parse(txtCantidad2.Text);
-            string tabla = "<table>";
 
-            tabla += "<tr style= 'font-weight: bold; color: black;'>";
-            tabla += "<td> Producto </td>";
-            tabla += "<td> Cantidad </td>";
+            int Total = CantidadUno + CantidadDos;
+
+            string tabla = "<table border='1' style='width:10%; border-collapse: collapse;'>"; 
+
+            tabla += "<tr style='font-weight: bold; color: black;'>";
+            tabla += "<td style='width:10%;'>Producto</td>"; 
+            tabla += "<td style='width:10%;'>Cantidad</td>";
             tabla += "</tr>";
 
             tabla += "<tr>";
-            tabla += "<td>" + ProductoUno.ToString() + "<td/>";
-            tabla += "<td>" + " " + "</td>";
+            tabla += $"<td>{ProductoUno}</td>";
+            tabla += $"<td>{CantidadUno}</td>";
             tabla += "</tr>";
 
             tabla += "<tr>";
-            tabla += "<td>" + ProductoDos.ToString() + "<td/>";
-            tabla += "<td>" + CantidadDos + "</td>";
+            tabla += $"<td>{ProductoDos}</td>";
+            tabla += $"<td>{CantidadDos}</td>";
             tabla += "</tr>";
+
+            tabla += "<tr style='font-weight: bold; color: black;'>";
+            tabla += "<td>Total</td>";
+            tabla += $"<td>{Total}</td>";
+            tabla += "</tr>";
+
+            tabla += "</table>";
 
             lblTabla.Text = tabla;
-
         }
+
     }
 }
